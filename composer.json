@@ -1,5 +1,5 @@
 {
-  "name": "prayno/casauth-bundle",
+  "name": "gennadyterekhov/casauth-bundle",
   "type": "symfony-bundle",
   "description": "Basic CAS (SSO) authenticator for Symfony 3, 4 and 5",
   "keywords": ["PRayno", "CAS", "SSO", "Symfony 3", "Guard", "Symfony 4", "Symfony 5"],
